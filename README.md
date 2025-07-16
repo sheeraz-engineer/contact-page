@@ -15,10 +15,9 @@ A simple and responsive contact form web page built using HTML, CSS, and JavaScr
 ## 📁 File Structure
 
 contact-page/
-├── contact.html
+├── index.html
+├── script.js
 ├── style.css
-└── script.js
-
 
 ## 👨‍💻 Author
 **Sheeraz Ahmed**  
