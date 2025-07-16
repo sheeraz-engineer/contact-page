@@ -9,8 +9,8 @@ A simple and responsive contact form web page built using HTML, CSS, and JavaScr
 
 ## 🛠 Technologies Used
 - HTML5
-- CSS3
-- JavaScript (Vanilla)
+- CSS
+- JavaScript 
 
 ## 📁 File Structure
 
