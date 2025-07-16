@@ -16,9 +16,9 @@ A simple and responsive contact form web page built using HTML, CSS, and JavaScr
 
 ```
 contact-page/
-├── index.html          # Main landing page
-├── script.js           # JS interactions
-├── style.css           # Global styles
+├── index.html
+├── script.js
+├── style.css
 ```
 
 ## 👨‍💻 Author
