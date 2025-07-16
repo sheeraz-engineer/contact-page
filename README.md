@@ -19,6 +19,7 @@ contact-page/
 ├── index.html          # Main landing page
 ├── script.js           # JS interactions
 ├── style.css           # Global styles
+```
 
 ## 👨‍💻 Author
 **Sheeraz Ahmed**  
