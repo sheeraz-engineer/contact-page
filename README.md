@@ -14,10 +14,11 @@ A simple and responsive contact form web page built using HTML, CSS, and JavaScr
 
 ## 📁 File Structure
 
+```
 contact-page/
-├── index.html    #Main landing page
-├── script.js     #Js interactions
-├── style.css     #Global styles
+├── index.html          # Main landing page
+├── script.js           # JS interactions
+├── style.css           # Global styles
 
 ## 👨‍💻 Author
 **Sheeraz Ahmed**  
